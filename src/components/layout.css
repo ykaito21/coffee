@@ -31,7 +31,8 @@ h6 {
   font-size: 2rem;
 }
 
-.default-background {
+.default-background,
+.about-background {
   min-height: calc(100vh - 74px);
   display: flex;
   justify-content: center;
@@ -39,6 +40,9 @@ h6 {
   background: linear-gradient(rgba(255, 158, 9, 0.5), rgba(255, 158, 9, 0.5));
   background-position: center;
   background-size: cover;
+}
+.about-background {
+  min-height: calc(60vh - 74px);
 }
 
 .btn-yellow {
