@@ -1,7 +1,7 @@
 :root {
   --brown: #2d1e1f;
   --yellow: rgb(255, 158, 9);
-  --gray: #ece8dc;
+  --grey: #ece8dc;
   --dark: #222;
 }
 
@@ -57,4 +57,8 @@ h6 {
 
 .footer {
   background: var(--dark);
+}
+
+.menu {
+  background: var(--grey);
 }
