@@ -50,3 +50,7 @@ h6 {
   background: var(--yellow) !important;
   color: var(--brown) !important;
 }
+
+.footer {
+  background: var(--dark);
+}
