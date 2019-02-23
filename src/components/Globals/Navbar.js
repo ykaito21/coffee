@@ -61,7 +61,7 @@ https://www.iconfinder.com/webalys */}
             })}
             <li className="nav-itme ml-sm-5">
               <Link to="/" className="nav-link text-capitalize">
-                <FaCartArrowDown className="cart-icon" />
+                <FaCartArrowDown className="cart-icon snipcart-checkout" />
               </Link>
             </li>
           </ul>
